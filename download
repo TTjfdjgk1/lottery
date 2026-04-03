@@ -1,0 +1,4 @@
+node_modules/
+lottery.db
+*.log
+.DS_Store
